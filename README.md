@@ -9,10 +9,10 @@ Soy Mario, un apasionado desarrollador y entusiasta de la tecnología. Mi fascin
 - 🚀 Disfruto trabajando en proyectos desafiantes que impulsan mi crecimiento profesional.
 
 ### Tecnologías que Utilizo
-- 🅰 Angular: Mi elección para construir aplicaciones web robustas y escalables.
-- ⚛ React: Un marco de trabajo que me apasiona por su flexibilidad y rendimiento.
-- ☕ Spring Boot: En el mundo del desarrollo Java, este es mi marco de trabajo preferido.
-- 📱 Flutter: En la actualidad, me sumerjo en el desarrollo de emocionantes proyectos móviles.
+- 🅰 Angular.
+- ⚛ React.
+- ☕ Spring Boot.
+- 📱 Flutter.
 
 ### Conéctate Conmigo
 ¡Me encantaría conectar contigo! No dudes en explorar mis proyectos y ponerte en contacto para discutir nuevas ideas y colaboraciones.
